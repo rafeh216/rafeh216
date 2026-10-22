@@ -139,7 +139,7 @@ const developer = {
 | :-- | :-- | :-- |
 | 🧑‍💻 **Junior Mendix Developer** | NESL IT, Islamabad | Nov 2025 – Jul 2026 |
 | 🎯 **Mendix Developer Intern** | Softoo, Islamabad | Jul 2025 – Sep 2025 |
-| 🎓 **BS Computer Science** | Bahria University | Expected Jun 2027 |
+| 🎓 **BS Software Engineering** | Bahria University | Expected Jun 2027 |
 
 </div>
 
