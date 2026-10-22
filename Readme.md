@@ -1,167 +1,179 @@
-
-<!-- Animated GitHub Profile README -->
-
+<!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:102A43,100:00C6FF&text=Hey,%20I'm%20Rafay!&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js&descAlignY=58&descSize=18" width="100%" alt="Rafay profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24,30&height=240&section=header&text=Hi%2C%20I'm%20AR&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%E2%80%A2%20MERN%20%E2%80%A2%20Low-Code%20%E2%80%A2%20Always%20Building&descSize=20&descAlignY=58" width="100%" alt="header" />
 
 <a href="https://github.com/rafeh216">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&height=55&lines=Frontend+Developer;React.js+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Experiences;Create.+Develop.+Evolve." alt="Animated typing introduction"/>
-</a>
-
-<p>
-  <a href="https://rafeh.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-00C6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/rafeh216">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=rafeh216&style=flat-square&color=00C6FF&label=PROFILE+VIEWS" alt="Profile views"/>
-
-</div>
-
----
-
-## `$ whoami`
-
-```javascript
-const rafay = {
-  role: "Frontend Developer",
-  education: "Software Engineering",
-  experience: "2 years in frontend development",
-  primaryStack: ["React", "Next.js", "JavaScript", "TypeScript"],
-  styling: ["Tailwind CSS", "Bootstrap"],
-  interests: [
-    "Modern UI/UX",
-    "Web Performance",
-    "Responsive Design",
-    "Full-Stack Development"
-  ],
-  motto: "Create. Develop. Evolve."
-};
-```
-
-- Building clean, responsive and user-friendly web applications.
-- Focused on writing maintainable code and creating smooth user experiences.
-- Exploring full-stack development and practical software engineering.
-- Always learning, experimenting and improving.
-
----
-
-## `$ tech-stack`
-
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap&theme=dark" alt="Frontend technologies"/>
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend technologies"/>
-
-### Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma&theme=dark" alt="Developer tools"/>
-
-</div>
-
----
-
-## `$ featured-projects`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 NeuroFusion-AD
-
-A proposed multimodal research project for Alzheimer's disease detection and staging using MRI neuroimages and clinical data.
-
-**Focus:** Machine learning · Medical imaging · Python
-
-</td>
-<td width="50%" valign="top">
-
-### 🖥️ KB Computers
-
-A computer and accessories e-commerce project focused on product discovery, shopping experiences and inventory workflows.
-
-**Focus:** React · E-commerce · Full-stack development
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📦 Inventory Management
-
-An inventory and sales tracking application designed to manage products, stock quantities and sales history.
-
-**Focus:** MERN stack · CRUD · Inventory workflows
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Frontend Experiments
-
-Exploring responsive layouts, reusable React components, animations and modern web interfaces.
-
-**Focus:** React · Tailwind CSS · UI/UX
-
-</td>
-</tr>
-</table>
-
----
-
-## `$ github-stats`
-
-<div align="center">
-
-<a href="https://github.com/rafeh216">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rafeh216&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
-</a>
-
-<a href="https://github.com/rafeh216">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafeh216&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=C9D1D9&langs_count=8" alt="Most used languages"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&random=false&width=700&height=60&lines=Software+Developer+%F0%9F%92%BB;MERN+Stack+Engineer+%E2%9A%A1;Mendix+Certified+Rapid+Developer+%F0%9F%9A%80;CS+Student+at+Bahria+University+%F0%9F%8E%93;Turning+ideas+into+shipped+products+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=rafeh216&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
+<img src="https://komarev.com/ghpvc/?username=rafeh216&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/rafeh216?label=Followers&style=for-the-badge&logo=github&color=8957e5&labelColor=0d1117" alt="followers" />
+<img src="https://img.shields.io/github/stars/rafeh216?label=Stars&style=for-the-badge&logo=github&color=e3b341&labelColor=0d1117" alt="stars" />
 
 </div>
 
----
-
-## `$ contribution-graph`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rafeh216/rafeh216/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
-
-</div>
+<br/>
 
 ---
 
-## `$ connect`
+## 👨‍💻 About Me
+
+<img align="right" width="320" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="coding" />
+
+```js
+const AR = {
+  username: "rafeh216",
+  role: "Software Developer & CS Student 🎓",
+  university: "Bahria University (Graduating June 2027)",
+  stack: ["MongoDB", "Express", "React", "Node.js"],
+  lowCode: "Mendix Certified Rapid Developer",
+  experience: ["NESL IT", "Softoo"],
+  currentlyBuilding: "AI-powered Alzheimer's detection from MRI data 🧠",
+  funFact: "I debug in my sleep (and sometimes introduce bugs there too) 😴",
+};
+```
+
+- 🔭 Building my **Final Year Project**: early detection of Alzheimer's from MRI data
+- 🌱 Sharpening my skills in **full-stack development** and **machine learning**
+- ⚡ Worked with **Mendix** professionally, shipping low-code enterprise apps in Islamabad
+- 🚀 Shipped **EduQuiz**, a MERN quiz platform with Google OAuth, deployed on Vercel
+- 💬 Ask me about **MERN, Mendix, web apps, and getting things deployed**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<a href="https://rafeh.vercel.app">
-  <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-00C6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://github.com/rafeh216">
-  <img src="https://img.shields.io/badge/Follow%20My%20Work-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,html,css,tailwind,bootstrap&perline=10" alt="web stack" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,figma,linux,npm&perline=10" alt="tools" />
 
 <br/><br/>
 
-**Thanks for visiting! Let's build something awesome.**
+<img src="https://img.shields.io/badge/Mendix-0CABF9?style=for-the-badge&logo=mendix&logoColor=white" alt="Mendix" />
+<img src="https://img.shields.io/badge/Mendix_Certified-Rapid_Developer-0CABF9?style=for-the-badge&logo=mendix&logoColor=white&labelColor=0d1117" alt="Mendix Certified" />
+<img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google OAuth" />
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML" />
 
-<sub>Designed with curiosity, code, and a passion for the web.</sub>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rafeh216&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=bb9af7&text_color=c9d1d9&ring_color=00f7ff&count_private=true&include_all_commits=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafeh216&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&langs_count=8" alt="top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=rafeh216&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF9E64&currStreakLabel=00F7FF" alt="streak" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rafeh216&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafeh216&bg_color=0d1117&color=00f7ff&line=bb9af7&point=ffffff&area=true&area_color=1f6feb&hide_border=true&radius=10" alt="activity graph" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafeh216/rafeh216/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafeh216/rafeh216/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/rafeh216/rafeh216/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/rafeh216/EduQuiz">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafeh216&repo=EduQuiz&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=bb9af7" alt="EduQuiz" />
+</a>
+<a href="https://github.com/rafeh216/rafeh216.github.io">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafeh216&repo=rafeh216.github.io&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=bb9af7" alt="Portfolio" />
+</a>
+
+</div>
+
+> 💡 **Tip:** Swap the `repo=` values above for your actual repository names.
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period |
+| :-- | :-- | :-- |
+| 🧑‍💻 Junior Mendix Developer | **NESL IT**, Islamabad | Nov 2025 – Jul 2026 |
+| 🎯 Mendix Developer Intern | **Softoo**, Islamabad | Jul 2025 – Sep 2025 |
+| 🎓 BS Computer Science | **Bahria University** | Expected Jun 2027 |
+
+---
+
+## 🧠 Currently Exploring
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/-Machine%20Learning-1f6feb?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/-Medical%20Imaging-bb9af7?style=flat-square" />
+<img src="https://img.shields.io/badge/-System%20Design-00b894?style=flat-square" />
+<img src="https://img.shields.io/badge/-Testing%20%26%20QA-e17055?style=flat-square" />
+<img src="https://img.shields.io/badge/-Databases-fdcb6e?style=flat-square&logoColor=black" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/rafeh216"><img src="https://img.shields.io/badge/GitHub-rafeh216-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-Visit-00f7ff?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+
+<br/><br/>
+
+<img src="https://readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+
+</div>
+
+<!-- FOOTER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24,30&height=140&section=footer&text=Thanks%20for%20stopping%20by!%20%E2%9C%A8&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" alt="footer" />
 
 </div>
