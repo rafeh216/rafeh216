@@ -1,7 +1,7 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Abdul%20Rafay%20Abbasi&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Mendix%20Certified%20%7C%20SE%20Student&descSize=18&descAlignY=60&descColor=00f7ff" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Abdul%20Rafay%20Abbasi&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Mendix%20Certified%20%7C%20Software%20Engineering%20Student&descSize=18&descAlignY=60&descColor=00f7ff" width="100%" alt="header" />
 
 <a href="https://github.com/rafeh216">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=720&height=55&lines=MERN+Stack+Developer+%E2%9A%A1;Mendix+Certified+Rapid+Developer+%F0%9F%9A%80;Building+AI-based+Alzheimer's+detection+%F0%9F%A7%A0;Turning+ideas+into+shipped+products+%E2%9C%A8" alt="Typing SVG" />
