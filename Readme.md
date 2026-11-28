@@ -31,7 +31,6 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="320">
 
-- 🔭 I'm currently working at **NESL IT** as a Junior Mendix Developer
 - 💻 Freelancing full-stack web apps & landing pages
 - 🎓 BS Software Engineering @ **Bahria University** (June 2027)
 - 🌱 Learning **Machine Learning** and **Cloud Deployment**
