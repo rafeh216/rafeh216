@@ -5,7 +5,7 @@
 
 <!-- Animated Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg"> 
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Abdul+Rafay+Abbasi;%F0%9F%92%BB+Full-Stack+Developer+%7C+React+%7C+Next.js+%7C+Node.js;%F0%9F%9A%80+Building+scalable+web+applications;%F0%9F%8E%93+BS+Software+Engineering+%40+Bahria+University" alt="Typing SVG" />
   </a>
 </p>
@@ -30,18 +30,6 @@
 </h2>
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="320">
-
-```js
-const abdulRafay = {
-    role: "Junior Full-Stack Developer",
-    location: "Islamabad, Pakistan 🇵🇰",
-    education: "BS Software Engineering @ Bahria University",
-    graduation: "June 2027",
-    currentlyWorking: "NESL IT (Mendix Developer)",
-    freelancing: true,
-    funFact: "I debug with console.log and I'm not ashamed 😄"
-};
-```
 
 - 🔭 I'm currently working at **NESL IT** as a Junior Mendix Developer
 - 💻 Freelancing full-stack web apps & landing pages
